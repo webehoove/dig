@@ -190,7 +190,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			html {
-				font-size: 18px;
+				font-size: 16px;
 			}
 
 		}
@@ -198,7 +198,7 @@ input, select, textarea {
 		@media screen and (max-width: 360px) {
 
 			html {
-				font-size: 18px;
+				font-size: 16px;
 			}
 
 		}
@@ -4788,7 +4788,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			.banner.style5 {
-				padding: 0.5rem 1rem 1rem 1rem ;
+				padding: 0 0.5rem 1rem 0.5rem ;
 			}
 
 		}
@@ -6273,7 +6273,7 @@ input, select, textarea {
 	@media screen and (max-width: 736px) {
 
 		.wrapper.style1 > .inner {
-			padding: 0 1rem 1rem 1rem ;
+			padding: 0 0.5rem 0.5rem 0.5rem ;
 		}
 
 	}
